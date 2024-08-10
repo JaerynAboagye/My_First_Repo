@@ -1,0 +1,4 @@
+git add- it tells git to keep track of a file (git add {file name})
+Git commit - tells git to take a snapshot of the edded file (git commit [-m means message] and {your message}) 
+Git status - used for cheking the status of git (if being files are being tracked or not) 
+Git push - pushes file or folder to git hub 
